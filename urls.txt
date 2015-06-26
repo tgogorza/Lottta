@@ -1,0 +1,2 @@
+Game,URL
+Loto,http://tujugada.com.ar/loto_estadisticas.asp
