@@ -1,2 +1,4 @@
 Game,URL
 Loto,http://tujugada.com.ar/loto_estadisticas.asp
+Quini6,http://tujugada.com.ar/quini6_estadisticas.asp
+LotoLatest,http://tujugada.com.ar/loto_new.asp
